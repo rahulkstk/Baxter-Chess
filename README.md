@@ -14,6 +14,14 @@ This project is focused on developing a solution using Python, ROS, Gazebo, and 
 - Python, ROS, Gazebo, and RViz installed and configured.
 
 
-<img width="798" alt="image" src="https://github.com/rahulkstk/Baxter-Chess/assets/84446317/1c556247-4d86-4f1d-9914-ff901df00162">
+
+
+
+
+
+https://github.com/rahulkstk/Baxter-Chess/assets/84446317/e2f0aad5-8782-4525-98c4-9725c7eee751
+
+
+
 
 
