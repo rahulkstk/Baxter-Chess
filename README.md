@@ -12,3 +12,6 @@ This project is focused on developing a solution using Python, ROS, Gazebo, and 
 ### Prerequisites
 - Latest version of the provided virtual machine with essential ROS packages.
 - Python, ROS, Gazebo, and RViz installed and configured.
+
+
+<img width="798" alt="image" src="https://github.com/rahulkstk/Baxter-Chess/assets/84446317/1c556247-4d86-4f1d-9914-ff901df00162">
